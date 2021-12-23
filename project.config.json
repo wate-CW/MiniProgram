@@ -46,6 +46,11 @@
     "servePath": ""
   },
   "isGameTourist": false,
+  "permissions": {
+    "openapi": [
+      "img.scanQRCode"
+    ]
+  },
   "condition": {
     "search": {
       "list": []
@@ -65,11 +70,5 @@
     "miniprogram": {
       "list": []
     }
-  },
-  "permissions": {
-    "openapi": [
-      "img.scanQRCode"
-    ]
-
   }
 }
