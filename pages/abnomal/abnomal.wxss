@@ -1,0 +1,22 @@
+/* pages/abnomal/upAnomal.wxss */
+
+.container{
+  background-color: blue;
+  width: 100%;
+  height: 100%;
+
+}
+.top{
+
+}
+.center{
+
+}
+.bottom{
+  width: 100%;
+  background-color: aquamarine;
+  position: absolute;
+  bottom: 0px;
+  padding: 5px;
+
+}

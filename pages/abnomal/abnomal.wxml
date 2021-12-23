@@ -1,0 +1,14 @@
+<!--pages/upAbnomal/upAnomal.wxml-->
+<view class="container">
+  <view class="top">
+
+  </view>
+  <view class="center">
+
+  </view>
+
+  <view class="bottom">
+    <button bindtap="upAbnomalPage"  type="primary">上传异常</button>
+  </view>
+
+</view>

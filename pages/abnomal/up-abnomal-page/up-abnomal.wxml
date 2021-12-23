@@ -1,0 +1,9 @@
+<view class="container">
+  <view class="mj-information-view">
+    <view class="mj-Numb-view">
+      <input  placeholder="模具编号" type="digit" id="mjCode"  value="{{code}}" />
+      <button bindtap="saoYiSaobBt" type="primary" size="mini">扫一扫</button>
+    </view>
+    <textarea class="abnomal-texarea" placeholder="异常描述" confirm-type="next" />
+  </view>
+</view>

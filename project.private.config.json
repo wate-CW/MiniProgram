@@ -1,0 +1,23 @@
+{
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/abnomal/up-abnomal-page/up-abnomal",
+          "pathName": "pages/abnomal/up-abnomal-page/up-abnomal",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
